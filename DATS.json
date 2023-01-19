@@ -1,0 +1,231 @@
+{
+  "title": "POND Registry Imaging Data Release",
+  "description": "The Province of Ontario Neurodevelopmental Disorders (POND) Network is an Integrated Discovery Program funded by the Ontario Brain Institute and aims to understand the neurobiology of neurodevelopment disorders and translate the findings into effective new treatments. This controlled data release includes T1 weighted and T2 weighted structural MRIs, DTI, MRS, resting and task based fMRI, and MEG imaging data along with demographic, medical history data, behavioural and cognitive assessments for 682 children and youth diagnosed with various neurodevelopmental disorders as well as typically developing children and youth. ",
+  "dates": [
+    {
+      "date": "2012-02-02 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2019-11-01 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Patient registry "
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical studies"
+      }
+    },
+    {
+      "information": {
+        "value": "Imaging studies"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 32.95,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Autism Speaks"
+        },
+        {
+          "name": "Autism Ontario"
+        },
+        {
+          "name": "Circle 21"
+        },
+        {
+          "name": "Community Living Toronto"
+        },
+        {
+          "name": "Ontario Rett Syndrome Association"
+        },
+        {
+          "name": "Totally ADD"
+        },
+        {
+          "name": "Sick Kids Down Syndrome Clinic"
+        },
+        {
+          "name": "Province of Ontario Neurodevelopmental Disorders Network",
+          "abbreviation": "POND"
+        },
+        {
+          "name": "Government of Ontario"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "neurodevelopmental disorders"
+    },
+    {
+      "value": "neurobiology"
+    },
+    {
+      "value": "genetics"
+    },
+    {
+      "value": "neuroimaging"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "MEG"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 682
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 288
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/DR006_DR_image.jpg"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
