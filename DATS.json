@@ -54,7 +54,7 @@
       "formats": [
         "CSV"
       ],
-      "size": 32.95,
+      "size": 303.66,
       "unit": {
         "value": "GB"
       },
@@ -62,7 +62,7 @@
         "landingPage": "https://www.braincode.ca/",
         "authorizations": [
           {
-            "value": "private"
+            "value": "registered"
           }
         ]
       }
@@ -159,7 +159,7 @@
       "category": "files",
       "values": [
         {
-          "value": 288
+          "value": 178
         }
       ]
     },
