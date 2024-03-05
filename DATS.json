@@ -219,6 +219,14 @@
         }
       ]
     },
+	{
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/user/register"
+        }
+      ]
+    },
     {
       "category": "REB_statement",
       "values": [
