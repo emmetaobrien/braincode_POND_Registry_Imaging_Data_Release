@@ -28,17 +28,20 @@
   "types": [
     {
       "information": {
-        "value": "Patient registry "
+        "value": "Patient registry",
+		"valueIRI": "http://uri.interlex.org/ilx_0108594"
       }
     },
     {
       "information": {
-        "value": "Clinical studies"
+        "value": "Clinical studies",
+		"valueIRI": "http://uri.interlex.org/ilx_0102254"
       }
     },
     {
       "information": {
-        "value": "Imaging studies"
+        "value": "Imaging studies",
+		"valueIRI": "http://uri.interlex.org/ilx_0105225"
       }
     }
   ],
